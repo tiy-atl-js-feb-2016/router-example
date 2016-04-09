@@ -1,0 +1,12 @@
+/* CSS Entry Point */
+
+// Turn on freq used libraries
+@import 'normalize-css/normalize';
+// @import 'font-awesome/scss/font-awesome';
+
+@import 'react-nprogress/nprogress';
+
+body {
+  background: #f0f0f0;
+  font-family: Roboto, sans-serif;
+}
