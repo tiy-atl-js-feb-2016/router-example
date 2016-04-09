@@ -70,7 +70,7 @@ export default class Login extends Component {
           <TextField name="pass" hintText="Password" style={textFieldStyle} underlineShow={false} type="password" />
           <Divider />
           <div style={{textAlign: 'right'}}>
-            <RaisedButton type="submit" label="Primary" primary={true} style={buttonStyle} />
+            <RaisedButton type="submit" label="Sign In" primary={true} style={buttonStyle} />
           </div>
         </SerialForm>
       </Paper>
